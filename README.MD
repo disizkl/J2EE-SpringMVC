@@ -25,7 +25,7 @@
 <li>MySQL</li>
 <li>Lombok</li>
 <li>H2Database</li>
-<li></li>
+
 <h2>Captures d'Écran :</h2>
 <p>Voici quelques captures d'écran de l'application :</p>
 
