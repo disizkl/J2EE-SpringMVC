@@ -2,7 +2,12 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+<<<<<<< HEAD
     <meta name="viewport" content="width=device-width, initial-scale=1.0"><title></title>
+=======
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+>>>>>>> 42aa5450055a8d978c8f22511b15688132c54a6a
 </head>
 <body>
     <h1>J2EE SPRING MVC</h1>
@@ -24,6 +29,10 @@
 <li>MySQL</li>
 <li>Lombok</li>
 <li>H2Database</li>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 42aa5450055a8d978c8f22511b15688132c54a6a
 <h2>Captures d'Écran :</h2>
 <p>Voici quelques captures d'écran de l'application :</p>
 
